@@ -4,5 +4,4 @@
 
 some python functions
 dff
-
-i am young junior and i want more money
+hgj
